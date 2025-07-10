@@ -1,0 +1,2 @@
+What Is A Branching Strategy?
+A branching strategy is a strategy that software development teams adopt for writing, merging and deploying code with the help of a version control system like Git. It lays down a set of rules that aid the developers on how to go about the development process and interact with a shared codebase. Strategies like these are essential as they help in keeping project repositories organized, error free and avoid the dreaded merge conflicts when multiple developers simultaneously push and pull code from the same repository.
