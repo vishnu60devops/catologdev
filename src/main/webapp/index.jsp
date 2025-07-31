@@ -3,7 +3,7 @@ i<head>
 
 </head>
 <body>
-	<h1 style="color: Red; font-size: 40px;" align="center">CI/CD using webhook for Automating deployment process </h1>
+	<h1 style="color: Red; font-size: 40px;" align="center">CI/CD using webhooks is for Automating deployment process </h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">" Tomcat web server "</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">" jenkins CI/CD tool "</h1>
 	<h1 style="color: voilet; font-size: 40px;" align="center">github Webhook to trigger the Jenkins Pipeline </h1>
